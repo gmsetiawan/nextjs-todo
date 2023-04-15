@@ -12,7 +12,7 @@ Create folder data then create file todos.json in root apps
 [
     {
         "id": 1,
-        "context": "Dolor animi dolores voluptas officia. Id velit error rerum in. Natus reprehenderit voluptatem commodi placeat autem delectus et.",
+        "context": "Id velit error rerum in. Natus reprehenderit voluptatem commodi placeat autem delectus et.",
         "isStatus": false,
         "created_at": "2023-04-15T19:51:27.406Z",
         "updated_at": "2023-04-15T19:51:41.845Z",
